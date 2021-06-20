@@ -1,0 +1,5 @@
+node_modules
+variables.env
+_MACOSX
+.DS_Store
+public.zip
